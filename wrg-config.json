@@ -1,17 +1,17 @@
 {
   "site": {
-    "title": "Web Replay Gen Example"
+    "title": "Rafi Ajl Residency 2026 — Museum of Glass"
   },
   "archives": [
     {
-      "name": "Example",
-      "url": "https://replayweb.page/docs/assets/example.wacz",
-      "description": "ReplayWeb.Page web archive example"
+      "name": "Instagram",
+      "url": "s3://mog-webarchive-example/VA.2026-03-25.RA.001.wacz",
+      "description": "Instagram posts documenting residency in Museum of Glass's Jane Russell Hot Shop"
     },
     {
-      "name": "Twitter",
-      "url": "s3://webrecorder-builds/warcs/netpreserve-twitter.warc",
-      "description": "Netpreserve Twitter web archive example"
+      "name": "Newsletter",
+      "url": "s3://mog-webarchive-example/VA.2026-03-25.RA.002.wacz",
+      "description": "Instagram posts documenting residency in Museum of Glass's Jane Russell Hot Shop"
     }
   ]
 }
